@@ -22,6 +22,9 @@ To install the necessary dependencies, run the following command:<br>
 
 ## Usage
 
+![alt text](/public/images/Screen%20Shot%202022-04-16%20at%2010.39.04%20AM.png)
+![alt text](/public/images/Screen%20Shot%202022-04-16%20at%2010.39.41%20AM.png)
+
 ## DeployedLink
 
 https://wut2eat2.herokuapp.com/
